@@ -1,4 +1,4 @@
-# pathpresenter
+# vue-task
 
 ## Project setup
 ```
